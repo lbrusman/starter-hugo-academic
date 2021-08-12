@@ -64,9 +64,9 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Liza Brusman is a PhD candidate in Molecular, Cellular, and Developmental Biology as the University of Colorado, Boulder. She works in the lab of Dr. Zoe Donaldson studying the neurobiological underpinnings of pair bonding in prairie voles. Liza also enjoys writing science communication articles and is the Editor in Chief of Science Buffs, the grad student-run science communication outlet at CU Boulder.
+Liza Brusman is a PhD candidate in Molecular, Cellular, and Developmental Biology at the University of Colorado, Boulder. She works in the lab of Dr. Zoe Donaldson studying the neurobiological underpinnings of pair bonding in prairie voles. Liza also enjoys writing science communication articles and is the Editor in Chief of Science Buffs, the grad student-run science communication outlet at CU Boulder.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
