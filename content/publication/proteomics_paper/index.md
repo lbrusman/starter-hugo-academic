@@ -8,7 +8,7 @@ authors:
 - Li-Chun Cheng
 - Sabyasachi Baboo
 - Cory Lindsay
-- admin
+- Liza Brusman
 - Salvador Martinez-Bartolomé
 - Olga Tapia
 - Xi Zhang
